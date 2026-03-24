@@ -24,6 +24,9 @@ header {
   justify-content: space-between;
   padding: 24px 48px;
 }
+/* .header-content{
+   max-width: 800px;
+} */
 nav {
   display: flex;
   gap: 60px;
@@ -80,5 +83,11 @@ img {
   margin-top: 0 auto;
   max-width: 1000px;
   font-size: 20px;
+  color: #492118;
+}
+.footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
   color: #492118;
 }
